@@ -1,0 +1,42 @@
+body{
+  color: #333;
+  background: url(../imgs/Coffee-tea.jpg);
+  background-size:cover;
+}
+
+a{
+  text-decoration:none;
+}
+
+#main{
+  background-color: rgba(241, 233, 233, 0.5);
+  border: 3px solid #fff;
+  border-radius: 15px;
+  float:left;
+  width:45%;
+  text-align:center;
+  left: 50%;
+  position:absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+}
+#main h2{
+  padding:5%;
+  width:auto;
+font-family: 'Chelsea Market', cursive;
+  font-size:3.5em;
+  color: #fff;
+  margin:auto;
+}
+
+.entry{
+display:inline-block;
+padding:15%;
+font-family: 'Slabo 27px', serif;
+font-size:3em;
+color:#fff;
+
+
+}
+
