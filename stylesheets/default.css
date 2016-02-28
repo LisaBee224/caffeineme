@@ -30,9 +30,14 @@ font-family: 'Chelsea Market', cursive;
   margin:auto;
 }
 
+.imgentry{
+display:inline-block;
+margin:5%
+}
 .entry{
 display:inline-block;
 padding:15%;
+padding-top:0;
 font-family: 'Slabo 27px', serif;
 font-size:3em;
 color:#fff;
